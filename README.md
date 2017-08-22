@@ -10,4 +10,4 @@ Now works offline
                      
 Hope to add more stuff soon, its just hard because the app is obfuscated to hell.
 
-Based somewhat off: https://github.com/MysteryDash/Offline-PS4-Remote-Play
+Based off: https://github.com/MysteryDash/Offline-PS4-Remote-Play
